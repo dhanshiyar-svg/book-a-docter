@@ -1,0 +1,6 @@
+{
+  "name": "Book a Doctor - Healthcare Booking Platform",
+  "description": "Full-stack healthcare appointment scheduling platform connecting patients with verified doctors, featuring role-based portals, interactive booking, document vault, and admin credential verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
